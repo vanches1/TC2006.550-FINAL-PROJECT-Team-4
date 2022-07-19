@@ -6,6 +6,7 @@ Pablo Ivan Solares Romero A017323275
 
 -> Project description
 
+The project proposal is to make a processing images, where we use a image as an input and the output is the image with the filter, where we are editing the pixel of every of the image by a our filter (number that with modify the pixel) , then we going to have the image modify by our program.  
 
 -> Programming language 
 
