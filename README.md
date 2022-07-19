@@ -9,7 +9,7 @@ Pablo Ivan Solares Romero A017323275
 
 -> Programming language 
 
-Previous research shows that Elixir has multiple modules or libraries with which image processing can be carried out. For this reason, this programming language was chosen as the main tool.    
+Previous research has shown that Elixir has multiple modules or libraries in which image processing can be performed. For this reason, this programming language was chosen as the primary tool.       
 
 -> Expected solution
 
@@ -22,4 +22,10 @@ The appearance of this new image depends directly on the operations applied to t
 
 https://elixir.libhunt.com/categories/778-images 
 
+Within this discussion forum of the elixir programmers community a list of the best libraries for image processing is listed. In this list stands out the library named "mogrify", it is clear that the features of this library make it a very competent tool for image processing.
+
+ 
+In addition to having an extensive documentation of each of its functions.   
+
+https://hexdocs.pm/mogrify/readme.html 
 
