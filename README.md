@@ -35,6 +35,7 @@ https://hexdocs.pm/mogrify/readme.html
 -> Data Input
 
 Since this is an image processing algorithm, the only type of data to be processed is an image.  
+
 ![ReadandDisplayImageExample_01](https://user-images.githubusercontent.com/108293127/180588757-0c1e3e18-0e34-43ba-817c-24436281763a.png)
 
 However, other parameters can be considered, such as the modifications to be made to the pixel information matrix or even the filter to be applied to the image. These filters can be done manually, either by modifying the aforementioned matrices or by applying more complex mathematical operations to generate more sophisticated filters. For the latter case it is ideal to use functions already included in the library, since they are usually generated from multiple operations. 
