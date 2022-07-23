@@ -38,11 +38,11 @@ Since this is an image processing algorithm, the only type of data to be process
 
 ![ReadandDisplayImageExample_01](https://user-images.githubusercontent.com/108293127/180588757-0c1e3e18-0e34-43ba-817c-24436281763a.png)
 
-However, other parameters can be considered, such as the modifications to be made to the pixel information matrix or even the filter to be applied to the image. These filters can be done manually, either by modifying the aforementioned matrices or by applying more complex mathematical operations to generate more sophisticated filters. For the latter case it is ideal to use functions already included in the library, since they are usually generated from multiple operations. 
+However, other parameters can be considered, such as the modifications to be made to the pixel information matrix or even the filter to be applied to the image. These filters can be done manually, either by modifying the aforementioned matrices or by applying more complex mathematical operations to generate more sophisticated filters. For the latter case it is ideal to use functions already included in the library, since they are usually generated from multiple complex mathematical operations. 
 
 -> Expected results
 
-After image processing, a new image is expected to be obtained. Either with different filters applied on it, a change of color saturation, grayscale or simply a decomposition into RGB channels. It all depends on the handling and operations applied to the pixel matrix. 
+After image processing, a new image is expected to be obtained. Either with different filters applied on it, a change of color saturation or contrast, grayscale or simply a decomposition into RGB channels. It all depends on the handling and operations applied to the pixel matrix. 
 
 ![ContrastEnhancementExample_01](https://user-images.githubusercontent.com/108293127/180588767-22f39037-cc11-4db1-b425-7016a151d768.png)
 
