@@ -48,7 +48,7 @@ After image processing, a new image is expected to be obtained. Either with diff
 
 -> Sketch of source file 
 
-
+hola
 
 
 
