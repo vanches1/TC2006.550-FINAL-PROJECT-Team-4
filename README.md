@@ -40,9 +40,10 @@ There we can find a detailed description of the process along with an example im
 
 -> Data Input
 
-Since this is an image processing algorithm, the only type of data to be processed is an image.  
+Since this is a text encryption algorithm, it is expected to receive an external text file along with the encryption keyword. 
 
-![ReadandDisplayImageExample_01](https://user-images.githubusercontent.com/108293127/180588757-0c1e3e18-0e34-43ba-817c-24436281763a.png)
+![notepad-1](https://user-images.githubusercontent.com/108293127/180915857-96e10935-0fb2-4697-a413-ea225f441d5b.gif)
+
 
 However, other parameters can be considered, such as the modifications to be made to the pixel information matrix or even the filter to be applied to the image. These filters can be done manually, either by modifying the aforementioned matrices or by applying more complex mathematical operations to generate more sophisticated filters. For the latter case it is ideal to use functions already included in the library, since they are usually generated from multiple complex mathematical operations. 
 
