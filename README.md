@@ -18,7 +18,13 @@ The expected solution is to implement an algorithm that receives an external tex
 
 ![tabula_recta](https://user-images.githubusercontent.com/108293127/180913208-784ed87e-0e5f-4215-b9de-cc1826fd84fe.png)
 
+Basically, the whole encryption process is based on the above-mentioned "tabula recta". 
 
+1.- The letter of the original text is located in the top horizontal row.
+2.- Go down the column, until the current letter of the keyword is found.
+3.- The leftmost letter of the current row is the new letter of the ciphertext.
+
+Once the last character of the keyword has been used, the algorithm returns to the first key letter and starts taking key characters again from the beginning until the whole text is encrypted.
 
 -> References
 
