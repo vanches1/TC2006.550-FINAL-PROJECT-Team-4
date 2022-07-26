@@ -10,7 +10,7 @@ As a final project of the programming languages course, the implementation of a 
 
 -> Programming language 
 
-Due to the previous work done within the elixir programming language, it is proposed to use it as the main tool because it has a wide repertoire of functions for the manipulation of lists. This is quite useful since, if we remember how file information is processed and manipulated, lists are an element that will be worked with recurrently, hence the usefulness of elixir stands out.     
+Due to the previous work done within the elixir programming language, it is proposed to use it as the main tool because it has a wide repertoire of functions for the manipulation of lists. This is quite useful since, if we remember how file information of files is processed and manipulated, lists are an element that will be worked with recurrently, hence the usefulness of elixir stands out.     
 
 -> Expected solution
 
