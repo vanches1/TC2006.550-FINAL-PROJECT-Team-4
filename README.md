@@ -30,14 +30,9 @@ Once the last character of the keyword has been used, the algorithm returns to t
 
 -> References
 
-https://elixir.libhunt.com/categories/778-images 
+La documentación completa del algoritmo de cifrado Beaufort se encuentra en la siguiente página. Allí podemos encontrar una descripción detallada del proceso junto con un ejemplo de implementación en el lenguaje de programación Python.
 
-Within this discussion forum of the elixir programmers community a list of the best libraries for image processing is listed. In this list stands out the library named "mogrify", it is clear that the features of this library make it a very competent tool for image processing.
-
- 
-In addition to having an extensive documentation of each of its functions.   
-
-https://hexdocs.pm/mogrify/readme.html 
+http://www.crypto-it.net/eng/simple/beaufort-cipher.html
 
 ---------------------------------------------------------------------
 
