@@ -6,7 +6,7 @@ Pablo Ivan Solares Romero A017323275
 
 -> Project description
 
-The project proposal is to make a processing images, where we use a image as an input and the output is the image with the filter, where we are editing the pixel of every of the image by a our filter (number that with modify the pixel) , then we going to have the image modify by our program.  
+As a final project of the programming languages course, the implementation of a text encryption algorithm is proposed. It is intended to perform the encryption of information using the Beaufort algorithm, a poly-alphabetic encryption system. This algorithm is characterized by the need to establish a keyword with which the encryption and decryption process can be performed correctly. 
 
 -> Programming language 
 
