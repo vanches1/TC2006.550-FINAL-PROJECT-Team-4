@@ -6,7 +6,7 @@ Pablo Ivan Solares Romero A017323275
 
 -> Project description
 
-As a final project of the programming languages course, the implementation of a text encryption algorithm is proposed. It is intended to perform the encryption of information using the Beaufort algorithm, a poly-alphabetic encryption system. This algorithm is characterized by the need to establish a keyword with which the encryption and decryption process can be performed correctly. 
+As a final project of the programming languages course, the implementation of a text encryption algorithm is proposed. It is intended to perform the encryption of information using the Beaufort algorithm, a poly-alphabetic encryption system. This algorithm is characterized by the need to establish a keyword to perform correctly the process of  encryption and decryption.
 
 -> Programming language 
 
