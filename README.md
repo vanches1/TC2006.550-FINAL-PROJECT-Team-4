@@ -30,9 +30,11 @@ Once the last character of the keyword has been used, the algorithm returns to t
 
 -> References
 
-La documentación completa del algoritmo de cifrado Beaufort se encuentra en la siguiente página. Allí podemos encontrar una descripción detallada del proceso junto con un ejemplo de implementación en el lenguaje de programación Python.
+The complete documentation of the Beaufort encryption algorithm can be found on the following page. 
 
 http://www.crypto-it.net/eng/simple/beaufort-cipher.html
+
+There we can find a detailed description of the process along with an example implementation in the Python programming language.
 
 ---------------------------------------------------------------------
 
