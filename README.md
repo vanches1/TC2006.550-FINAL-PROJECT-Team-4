@@ -18,7 +18,7 @@ The expected solution is to implement an algorithm that receives an external tex
 
 ![tabula_recta](https://user-images.githubusercontent.com/108293127/180913208-784ed87e-0e5f-4215-b9de-cc1826fd84fe.png)
 
-Basically, the whole encryption process is based on the above-mentioned "tabula recta". 
+Basically, the whole encryption process is as it follows: 
 
 1.- The letter of the original text is located in the top horizontal row.
 
