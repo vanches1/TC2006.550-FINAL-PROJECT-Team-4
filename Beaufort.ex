@@ -1,6 +1,6 @@
 defmodule Beaufort do
   #Main function, directs all the data processing
-  def main(in_filename, _out_file, _bool, _keyLetter) do
+  def main(in_filename, _out_file, _bool, keyLetter) do
     _proc_data = in_filename
     |> read_contents()
     |> Enum.join("\n")
@@ -35,8 +35,16 @@ defmodule Beaufort do
 
   def process_row(row), do: do_process_row(row, [])
   defp do_process_row([], res), do:  Enum.reverse(res)
-  defp do_process_row([head | tail], res), do: do_process_row(tail, [shift_char(head, 1) | res])
+  defp do_process_row([head | tail], res), do: do_process_row(tail, [shift_char(head, ch(hd(String.to_charlist(keyLetter))) | res])
 
+
+  def ch(key) do
+    if key > 0 do
+      cond do
+        key >= 65 and key <= 90 -> (key - 65)
+        key >= 97 and key <= 122 -> (key - 97)
+      end
+    end
 
   #Function for keyword manage
   def key_word(_kword, _og_text_len) do
