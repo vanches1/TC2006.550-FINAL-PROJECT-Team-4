@@ -18,6 +18,10 @@ The expected solution is to implement an algorithm that receives an external tex
 
 ![tabula_recta](https://user-images.githubusercontent.com/108293127/180913208-784ed87e-0e5f-4215-b9de-cc1826fd84fe.png)
 
+![vigenere](https://user-images.githubusercontent.com/108293127/181595096-33b594aa-3e58-436f-89d9-fb3ae7ac16a7.gif)
+
+
+
 Basically, the whole encryption process is as it follows: 
 
 1.- The letter of the original text is located in the top horizontal row.
