@@ -64,6 +64,8 @@ This function takes the path of the file and opens it, then prepares the data to
 
 Where one is in charge of processing the main list containing each of the lines of the text as elements and sends them to other function that recieves the rows as lists and processes each of their elements by calling the function that receives the letter to be encoded together with the key letter for the encryption, that key, we use a function that processing it so that it is converted into the number that will indicate to the function how many places the current letter should be displaced for the encryption. 
 
+
+
 At the end his function arranges the data and prepares the out-file
 
 
