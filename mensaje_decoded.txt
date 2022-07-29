@@ -1,0 +1,3 @@
+mensaje secreto
+HOLA ESTE ES
+el texto para codificar
