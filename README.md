@@ -1,6 +1,8 @@
 # TC2006.550-FINAL-PROJECT-Team-4
 Final project team: 
-Pedro Samuel Gonzáles Rodríguez A01732105
+
+Pedro Samuel González Rodríguez A01732105
+
 Pablo Ivan Solares Romero A017323275
 
 ---------------------------------------------------------------------
@@ -66,6 +68,7 @@ TEXT_ FILE of the INPUT of CODE:
 ![entrada_1](https://user-images.githubusercontent.com/108293097/181799402-fbe82b23-a602-41d0-bfd8-e47309c5fca1.JPG)
 
 TEXT_ FILE of the INPUT of DECODE:
+
 ![salida_1](https://user-images.githubusercontent.com/108293097/181804201-fc5393e0-1157-4b9d-817a-fb033d54acea.JPG)
 
 -> Process of the program 
