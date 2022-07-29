@@ -58,11 +58,18 @@ TEXT_ FILE of the INPUT:
 
 ![notepad-1](https://user-images.githubusercontent.com/108293127/180915857-96e10935-0fb2-4697-a413-ea225f441d5b.gif)
 
+-> Process of the program 
+
+This function takes the path of the file and opens it, then prepares the data to be read and processed creating a list of lists, where the main list contains the rows of the text as elements, these elements are nested lists. After we give functions that are responsible for processing the data contained in the text file to be encrypted. 
+
+Where one is in charge of processing the main list containing each of the lines of the text as elements and sends them to other function that recieves the rows as lists and processes each of their elements by calling the function that receives the letter to be encoded together with the key letter for the encryption, that key, we use a function that processing it so that it is converted into the number that will indicate to the function how many places the current letter should be displaced for the encryption. 
+
+At the end his function arranges the data and prepares the out-file
+
 
 
 -> Expected results
 
-After image processing, a new image is expected to be obtained. Either with different filters applied on it, a change of color saturation or contrast, grayscale or simply a decomposition into RGB channels. It all depends on the handling and operations applied to the pixel matrix. 
 
 
 
