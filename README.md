@@ -46,9 +46,11 @@ There we can find a detailed description of the process along with an example im
 
 Since this is a text encryption algorithm, it is expected to receive thre important input to have a succesful function of the programs that is :
 
--External text file along. 
--The encryption keyword. 
--The word "decode" o "code".
+1.-External text file along. 
+
+2.-The encryption keyword. 
+
+3.-The word "decode" o "code".
 
 ![notepad-1](https://user-images.githubusercontent.com/108293127/180915857-96e10935-0fb2-4697-a413-ea225f441d5b.gif)
 
