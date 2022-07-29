@@ -46,16 +46,19 @@ There we can find a detailed description of the process along with an example im
 
 Since this is a text encryption algorithm, it is expected to receive thre important input to have a succesful function of the programs that is :
 
-1.-External text file along. 
+1.-External text file along (must be introduced using the following format: "nameXX.txt"). 
 
-2.-The encryption keyword. 
+2.-The encryption keyword (only one letter must be introduced, the example: "a"). 
 
-3.-The word "decode" o "code".
+3.-Name of the out text file along (must be introduced using the following format: "nameXX.txt").
+
+4.-The word "decode" o "code" valid.
+
+TEXT_ FILE of the INPUT:
 
 ![notepad-1](https://user-images.githubusercontent.com/108293127/180915857-96e10935-0fb2-4697-a413-ea225f441d5b.gif)
 
 
-However, other parameters can be considered, such as the modifications to be made to the pixel information matrix or even the filter to be applied to the image. These filters can be done manually, either by modifying the aforementioned matrices or by applying more complex mathematical operations to generate more sophisticated filters. For the latter case it is ideal to use functions already included in the library, since they are usually generated from multiple complex mathematical operations. 
 
 -> Expected results
 
