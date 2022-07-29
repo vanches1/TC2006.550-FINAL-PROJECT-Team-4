@@ -3,6 +3,7 @@ Final project team:
 Pedro Samuel Gonzáles Rodríguez A01732105
 Pablo Ivan Solares Romero A017323275
 
+---------------------------------------------------------------------
 
 -> Project description
 
@@ -84,6 +85,8 @@ TEXT_ FILE of the OUTPUT of CODE:
 TEXT_ FILE of the OUTPUT of DECODE:
 
 ![salida_2](https://user-images.githubusercontent.com/108293097/181804153-2f95285a-5498-4326-9228-c8dfa4b11def.JPG)
+
+---------------------------------------------------------------------
 
 -> Process to Compile and Warnings.
 
