@@ -58,9 +58,11 @@ Since this is a text encryption algorithm, it is expected to receive thre import
 4.-The word "decode" o "code" valid.
 
 TERMINAL of CODE:
+
 ![input_1](https://user-images.githubusercontent.com/108293097/181804404-3b3f0091-6028-430f-af81-98983b305165.JPG)
 
 TERMINAL of DECODE:
+
 ![input_2](https://user-images.githubusercontent.com/108293097/181804417-afb3fde3-db00-4043-a208-42b896994414.JPG)
 
 TEXT_ FILE of the INPUT of CODE:
@@ -93,6 +95,7 @@ TEXT_ FILE of the OUTPUT of DECODE:
 
 -> Process to Compile and Warnings.
 
+
 To Compile we have to input in your terminal:
 
 iex.bat .\"File_name".exs
@@ -109,6 +112,8 @@ Where:
 *Third argument "out_file" must be introduced using the following format: "nameXX.txt"
 
 *Fourth argument is "inst" only "code" and "decode" are valid instructions
+
+
 
 Warnings:
 
