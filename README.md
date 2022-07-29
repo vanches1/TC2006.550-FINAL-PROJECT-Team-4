@@ -54,9 +54,17 @@ Since this is a text encryption algorithm, it is expected to receive thre import
 
 4.-The word "decode" o "code" valid.
 
-TEXT_ FILE of the INPUTof CODE:
+TERMINAL of CODE:
+![input_1](https://user-images.githubusercontent.com/108293097/181804404-3b3f0091-6028-430f-af81-98983b305165.JPG)
 
+TERMINAL of DECODE:
+![input_2](https://user-images.githubusercontent.com/108293097/181804417-afb3fde3-db00-4043-a208-42b896994414.JPG)
+
+TEXT_ FILE of the INPUT of CODE:
 ![entrada_1](https://user-images.githubusercontent.com/108293097/181799402-fbe82b23-a602-41d0-bfd8-e47309c5fca1.JPG)
+
+TEXT_ FILE of the INPUT of DECODE:
+![salida_1](https://user-images.githubusercontent.com/108293097/181804201-fc5393e0-1157-4b9d-817a-fb033d54acea.JPG)
 
 -> Process of the program 
 
@@ -71,6 +79,10 @@ At the end his function arranges the data and prepares the out-file
 TEXT_ FILE of the OUTPUT of CODE:
 
 ![salida_1](https://user-images.githubusercontent.com/108293097/181799446-1f501d18-eb4d-4de8-a16d-eaad17457490.JPG)
+
+TEXT_ FILE of the OUTPUT of DECODE:
+
+![salida_2](https://user-images.githubusercontent.com/108293097/181804153-2f95285a-5498-4326-9228-c8dfa4b11def.JPG)
 
 -> Process to Compile and Warnings.
 
@@ -93,6 +105,15 @@ Where:
 
 Warnings:
 
+If you put:
+
+*A file different file in the input from a .txt you obtain a message that say: "Invalid in file name\nThe file must have .txt extension"
+
+*More than a letter in key you obtain a message that say: "Invalid key\nkey must be only one letter"
+
+*A file different file in the output from a .txt you obtain a message that say: "Invalid out file name\nThe file must have .txt extension"
+
+*A word different than "decode" or "code" you obtain a message that say: "Invalid instruction\ncode or decode are the only valid instructions"
 
 
 
