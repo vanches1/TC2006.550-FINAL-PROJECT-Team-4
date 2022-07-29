@@ -61,6 +61,7 @@ TERMINAL of DECODE:
 ![input_2](https://user-images.githubusercontent.com/108293097/181804417-afb3fde3-db00-4043-a208-42b896994414.JPG)
 
 TEXT_ FILE of the INPUT of CODE:
+
 ![entrada_1](https://user-images.githubusercontent.com/108293097/181799402-fbe82b23-a602-41d0-bfd8-e47309c5fca1.JPG)
 
 TEXT_ FILE of the INPUT of DECODE:
