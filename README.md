@@ -44,7 +44,11 @@ There we can find a detailed description of the process along with an example im
 
 -> Data Input
 
-Since this is a text encryption algorithm, it is expected to receive an external text file along with the encryption keyword. 
+Since this is a text encryption algorithm, it is expected to receive thre important input to have a succesful function of the programs that is :
+
+-External text file along. 
+-The encryption keyword. 
+-The word "decode" o "code".
 
 ![notepad-1](https://user-images.githubusercontent.com/108293127/180915857-96e10935-0fb2-4697-a413-ea225f441d5b.gif)
 
@@ -55,23 +59,13 @@ However, other parameters can be considered, such as the modifications to be mad
 
 After image processing, a new image is expected to be obtained. Either with different filters applied on it, a change of color saturation or contrast, grayscale or simply a decomposition into RGB channels. It all depends on the handling and operations applied to the pixel matrix. 
 
-![ContrastEnhancementExample_01](https://user-images.githubusercontent.com/108293127/180588767-22f39037-cc11-4db1-b425-7016a151d768.png)
+
 
 -> Sketch of source file 
 
 Process
 
-Image (INPUT) -> Matrix -> lines of matrix -> apply filter (convert the value in every pixel by change the filter) -> Matrix convert -> Image with filter = (OUTPUT) 
 
-*Input: The image that we want to process by the differents filters.
-
-*Matrix: We use the libraries to transform the image in a matrix in values, and then separate the lines where to we modify the values of the pixel accordung to the filter.
-
-*Filter_binary: Converts the grayscale matrix to a binary matrix of the image by replacing all values of the pixels in the input image with a luminance greater than level with the value 1 (white) and replacing all other pixels with the value 0 (black).
-
-*Filter_GrayScale: Converts matrix A to a grayscale image I containing values in the range 0 (black) to 1 (white). amin and amax are the values of A that correspond to 0 and 1 in I. Values less than amin are shortened to 0, and values greater than amax are shortened to 1.
-
-*MatrixtoImage: Converts the values of the matrix (pixels) with the values applied by the filter in a image processed.
 
 
 
